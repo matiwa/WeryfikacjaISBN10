@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="WeryfikacjaISBN10.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="170"/>
+        <CursorPos X="31" Y="183"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="19">
+      <Position>
+        <Filename Value="WeryfikacjaISBN10.lpr"/>
+        <Caret Line="9" Column="8"/>
+      </Position>
+      <Position>
+        <Filename Value="WeryfikacjaISBN10.lpr"/>
+        <Caret Line="10" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="WeryfikacjaISBN10.lpr"/>
+        <Caret Line="11" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="WeryfikacjaISBN10.lpr"/>
+        <Caret Line="12" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="WeryfikacjaISBN10.lpr"/>
+        <Caret Line="138" Column="20" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="WeryfikacjaISBN10.lpr"/>
+        <Caret Line="11" Column="11" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="WeryfikacjaISBN10.lpr"/>
+        <Caret Line="10" Column="11" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="WeryfikacjaISBN10.lpr"/>
+        <Caret Line="9" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="WeryfikacjaISBN10.lpr"/>
+        <Caret Line="57" Column="11" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="WeryfikacjaISBN10.lpr"/>
+        <Caret Line="97" Column="13" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="WeryfikacjaISBN10.lpr"/>
+        <Caret Line="69" Column="10" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="WeryfikacjaISBN10.lpr"/>
+        <Caret Line="29" Column="12" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="WeryfikacjaISBN10.lpr"/>
+        <Caret Line="16" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="WeryfikacjaISBN10.lpr"/>
+        <Caret Line="59" Column="8" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="WeryfikacjaISBN10.lpr"/>
+        <Caret Line="72" Column="6" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="WeryfikacjaISBN10.lpr"/>
+        <Caret Line="79" Column="11" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="WeryfikacjaISBN10.lpr"/>
+        <Caret Line="95" Column="18" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="WeryfikacjaISBN10.lpr"/>
+        <Caret Line="14" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="WeryfikacjaISBN10.lpr"/>
+        <Caret Line="140" Column="5" TopLine="126"/>
+      </Position>
+      <Position>
+        <Filename Value="WeryfikacjaISBN10.lpr"/>
+        <Caret Line="144" Column="10" TopLine="136"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
